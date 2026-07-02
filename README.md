@@ -6,6 +6,7 @@ Program Studi: Sistem Informasi, Universitas Galuh
 1. [Zaidan Zidnaffan] - [7020250028]
 2. [Faisal Hikayat Padilah] - [NIM 2]
 3. [Fasha Alvian] - [NIM 3]
+4. [Aditya Hermawan] - []
 
 ## 🎯 Spesifikasi Lingkungan Server
 * **Hypervisor:** VMware Workstation Pro
