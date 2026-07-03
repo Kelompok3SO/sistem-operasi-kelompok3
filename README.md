@@ -36,7 +36,7 @@ Program Studi: Sistem Informasi, Universitas Galuh
   reboot
   ```
 * *[Tambahkan screenshot hasil uji coba perintah sudo oleh user biasa di bawah ini]*
-  ![Konfigurasi Sudo](images/02-sudo-config.png) *(Catatan: sesuaikan nama file dengan screenshot Anda)*
+  ![Konfigurasi Sudo](images/02-sudo-config.png) 
 
 ### 3. Instalasi Web Server Nginx & Tools Dasar
 * Menginstal `net-tools`, `curl`, `git`, dan `nginx` menggunakan command line.
