@@ -2,17 +2,17 @@
 Mata Kuliah: Sistem Operasi (SI-25)
 Program Studi: Sistem Informasi, Universitas Galuh
 
-## 👥 Anggota Kelompok X (Kelas SI-2025A / SI-2025B)
+## 👥 Anggota Kelompok 3 SI-2025B
 1. [Zaidan Zidnaffan] - [7020250028]
-2. [Faisal Hikayat Padilah] - [NIM 2]
-3. [Fasha Alvian] - [NIM 3]
-4. [Aditya Hermawan] - []
+2. [Faisal Hikayat Padilah] - [7020250026]
+3. [Fasha Alvian] - [7020250031]
+4. [Aditya Hermawan] - [7020250040]
 
 ## 🎯 Spesifikasi Lingkungan Server
 * **Hypervisor:** VMware Workstation Pro
 * **Sistem Operasi:** Debian 13 (Bookworm) - Headless (CLI / Tanpa GUI)
-* **IP Address VM (Guest):** `192.168.x.x` (Gunakan perintah `ip a` pada antarmuka ens33 untuk melihat IP VM Anda)
-* **Port Forwarding:** Host Port `8080` -> VM Port `80` (HTTP)
+* **IP Address VM (Guest):** `192.168.150.140`
+* **Port Forwarding:** Host Port `8080` -> VM Port `80` (HTTP Web Server) 
 
 ## 🛠️ Langkah-Langkah & Dokumentasi Praktikum
 
