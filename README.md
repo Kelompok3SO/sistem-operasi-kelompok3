@@ -112,7 +112,7 @@ Jika diminta Domain Name dapat dikosongkan.
 Masukkan hostname:
 
 ```text
-kelompok3
+server-SI2025B
 ```
 
 Klik Continue.
