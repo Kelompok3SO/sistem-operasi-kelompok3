@@ -289,11 +289,11 @@ Apabila meminta password dan berhasil dijalankan berarti konfigurasi sudo berhas
 
 ### Screenshot
 
+![Install Sudo](images/02-install-sudo.png)
+
+![Usermod](images/02-usermod.png)
+
 ![Update](images/02-sudo-config.png)
-
-![Install Sudo]()
-
-![Usermod]()
 
 ---
 
@@ -338,7 +338,7 @@ active (running)
 
 ### Screenshot
 
-![Status Nginx]()
+![Status Nginx](images/03-nginx-status.png)
 
 ---
 
@@ -372,7 +372,7 @@ Restart dilakukan agar konfigurasi dan halaman web terbaru dimuat kembali oleh N
 
 ### Screenshot
 
-![Edit HTML]()
+![Edit HTML](images/04-edit-html.png)
 
 ---
 
@@ -406,11 +406,11 @@ Apabila halaman profil kelompok muncul berarti konfigurasi berhasil.
 
 ### Screenshot NAT
 
-![NAT]()
+![NAT](images/05-nat-settings.png)
 
 ### Screenshot Browser
 
-![Browser]()
+![Browser](images/06-browser-host.png)
 
 ---
 
@@ -426,21 +426,12 @@ https
 
 # 📝 Kesimpulan
 
-Berdasarkan praktikum yang telah dilakukan, proses instalasi Debian 13 Headless berhasil diselesaikan mulai dari pemasangan sistem operasi, konfigurasi pengguna, instalasi web server Nginx, hingga pengujian akses web melalui port forwarding VMware.
-
-Melalui praktikum ini diperoleh pemahaman bahwa server berbasis Command Line Interface (CLI) lebih ringan dibandingkan server yang menggunakan Graphical User Interface (GUI), sehingga lebih efisien dalam penggunaan sumber daya komputer. Selain itu, penggunaan SSH mempermudah proses administrasi server dari komputer lain melalui jaringan.
+Berdasarkan praktikum yang telah dilakukan, kelompok kami berhasil menyelesaikan proses instalasi Debian 13 Headless dari tahap pemasangan sistem operasi, konfigurasi pengguna, hingga manajemen hak akses. Melalui praktikum ini diperoleh pemahaman bahwa server berbasis Command Line Interface (CLI) jauh lebih ringan dibandingkan server yang menggunakan Graphical User Interface (GUI), sehingga sangat efisien dalam penggunaan sumber daya komputer. Selain itu, kami juga berhasil mengonfigurasi repositori sistem untuk memperbarui paket menggunakan perintah apt update, memasang utilitas esensial seperti sudo untuk keamanan administrasi, serta memastikan layanan SSH aktif agar server dapat dikendalikan dengan mudah dari komputer lain melalui jaringan.
 
 ## Poin-poin yang Dipelajari
 
-- Memahami proses instalasi Debian 13 dalam mode headless.
-- Memahami konfigurasi hostname, user, password, dan partisi harddisk.
-- Memahami konfigurasi jaringan dasar pada Debian.
-- Memahami penggunaan perintah apt untuk melakukan update sistem.
-- Memahami cara memberikan hak akses administrator menggunakan sudo.
-- Memahami instalasi dan konfigurasi web server Nginx.
-- Memahami pengelolaan layanan menggunakan systemctl.
-- Memahami cara melakukan port forwarding pada VMware.
-- Memahami cara menguji web server melalui browser host.
-- Menambah pengalaman dalam melakukan administrasi server Linux berbasis terminal.
-
-Secara keseluruhan, praktikum ini memberikan pengalaman langsung mengenai instalasi, konfigurasi, dan pengelolaan server Debian 13 secara headless sebagai dasar administrasi sistem operasi Linux.
+- Memahami proses instalasi Debian 13 dalam mode headless tanpa GUI.
+- Memahami konfigurasi pengguna (user) dan pemisahan hak akses administratif.
+- Memahami cara memperbarui daftar paket repositori menggunakan perintah apt update.
+- Memahami instalasi, konfigurasi, dan pengelolaan layanan SSH Server menggunakan systemctl.
+- Menambahkan pengalaman baru dalam melakukan administrasi server Linux berbasis terminal.
