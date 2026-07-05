@@ -209,7 +209,7 @@ Tidak menginstal Desktop Environment agar server tetap ringan.
 
 ### Screenshot Software Selection
 
-![images/01-software-selection]()
+![Software Selection](images/01-software-selection.png)
 
 ---
 
@@ -243,7 +243,7 @@ Setelah restart, login menggunakan user yang telah dibuat.
 
 ### Screenshot Login Debian
 
-![Login Terminal]()
+![Login Terminal](images/02-debian-login.png)
 
 ---
 
@@ -270,7 +270,7 @@ apt install sudo -y
 Tambahkan user ke grup sudo.
 
 ```bash
-usermod -aG sudo kelompok2sia
+usermod -aG sudo kelompok3
 ```
 
 Restart sistem.
@@ -289,7 +289,7 @@ Apabila meminta password dan berhasil dijalankan berarti konfigurasi sudo berhas
 
 ### Screenshot
 
-![Update]()
+![Update](images/02-sudo-config.png)
 
 ![Install Sudo]()
 
