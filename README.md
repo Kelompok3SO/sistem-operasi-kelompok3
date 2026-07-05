@@ -1,13 +1,3 @@
-# sistem-operasi-si25-kelompok3
-
-# Tugas Instalasi Debian 13 Headless - Kelompok3
-
-# Tampilan Status Nginx Kelompok3
-
-Berikut adalah bukti bahwa layanan Nginx telah berhasil berjalan pada server Debian 13.
-
-![Tampilan Nginx Status](images/03-nginx-status.png)
-
 # Laporan Tugas Kelompok
 ## Instalasi Debian 13 Headless Web Server
 
