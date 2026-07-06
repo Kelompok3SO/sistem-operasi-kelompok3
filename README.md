@@ -414,6 +414,16 @@ Tambahkan tautan video YouTube atau Google Drive di bawah ini.
 
 ---
 
+# Link Laporan Ilmiah Dokumen
+
+Tambahkan tautan Google Drive di bawah ini.
+
+```
+https://drive.google.com/drive/folders/1eDrexVqCcw48CBe35PnAEsrfqGvLi9NF?usp=sharing
+```
+
+---
+
 # 📝 Kesimpulan
 
 Berdasarkan praktikum yang telah dilakukan, kelompok kami berhasil menyelesaikan proses instalasi Debian 13 Headless dari tahap pemasangan sistem operasi, konfigurasi pengguna, hingga manajemen hak akses. Melalui praktikum ini diperoleh pemahaman bahwa server berbasis Command Line Interface (CLI) jauh lebih ringan dibandingkan server yang menggunakan Graphical User Interface (GUI), sehingga sangat efisien dalam penggunaan sumber daya komputer. Selain itu, kami juga berhasil mengonfigurasi repositori sistem untuk memperbarui paket menggunakan perintah apt update, memasang utilitas esensial seperti sudo untuk keamanan administrasi, serta memastikan layanan SSH aktif agar server dapat dikendalikan dengan mudah dari komputer lain melalui jaringan.
