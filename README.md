@@ -409,7 +409,7 @@ Apabila halaman profil kelompok muncul berarti konfigurasi berhasil.
 Tambahkan tautan video YouTube atau Google Drive di bawah ini.
 
 ```
-[Klik di sini untuk menonton Video Demo](https://youtu.be/IMGob7jNn-Y?si=pgDvjKmrPkjrdu6R) 
+(https://youtu.be/IMGob7jNn-Y?si=pgDvjKmrPkjrdu6R) 
 ```
 
 ---
