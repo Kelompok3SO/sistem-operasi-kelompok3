@@ -11,8 +11,8 @@
 
 1. Zaidan Zidnaffan - 7020250028
 2. Faisal Hikayat Padilah – 7020250026
-3. Fasha Alvian – 70202500
-4. Aditya Hermawan – 70202500
+3. Fasha Alvian – 7020250031
+4. Aditya Hermawan – 7020250040
 
 
 ---
